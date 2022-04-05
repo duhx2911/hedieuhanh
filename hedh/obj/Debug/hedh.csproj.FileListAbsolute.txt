@@ -1,0 +1,10 @@
+D:\Visual\hedh\hedh\bin\Debug\hedh.exe.config
+D:\Visual\hedh\hedh\bin\Debug\hedh.exe
+D:\Visual\hedh\hedh\bin\Debug\hedh.pdb
+D:\Visual\hedh\hedh\obj\Debug\hedh.csproj.AssemblyReference.cache
+D:\Visual\hedh\hedh\obj\Debug\hedh.Form1.resources
+D:\Visual\hedh\hedh\obj\Debug\hedh.Properties.Resources.resources
+D:\Visual\hedh\hedh\obj\Debug\hedh.csproj.GenerateResource.cache
+D:\Visual\hedh\hedh\obj\Debug\hedh.csproj.CoreCompileInputs.cache
+D:\Visual\hedh\hedh\obj\Debug\hedh.exe
+D:\Visual\hedh\hedh\obj\Debug\hedh.pdb
